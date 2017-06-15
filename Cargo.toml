@@ -1,0 +1,7 @@
+[package]
+name = "Rust Katas"
+version = "0.1.0"
+authors = ["Dan Puttick <dputtick@users.noreply.github.com>"]
+
+[dependencies]
+itertools = "0.6.0"
